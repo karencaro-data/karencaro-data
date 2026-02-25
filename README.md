@@ -2,7 +2,7 @@
 
 🎯 **Data Analyst Junior** enfocada en métricas de negocio, análisis de cohortes y optimización de funnels de conversión.
 
-📍 São José de Ribamar, Brasil  
+
 🌎 Abierta a oportunidades remotas  
 
 ---

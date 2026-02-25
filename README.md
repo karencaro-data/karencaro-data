@@ -38,7 +38,7 @@ Formación intensiva en SQL, análisis de KPIs y toma de decisiones basada en da
 - Integración y limpieza de datasets.
 - Análisis de correlación entre congestión vehicular y PIB per cápita.
 - Identificación de ciudades prioritarias para inversión en infraestructura.
-🔗 [Ver proyecto](PEGA_AQUI_LINK)
+🔗 [Ver proyecto](https://github.com/karencaro-data/analisis-movilidad-productividad-latam)
 
 ---
 

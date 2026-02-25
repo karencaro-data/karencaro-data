@@ -23,14 +23,6 @@ Formación intensiva en SQL, análisis de KPIs y toma de decisiones basada en da
 - Segmentación por geografía para detectar mayor abandono.
 🔗 [Ver proyecto](https://github.com/karencaro-data/analisis-retencion-cohortes-ecommerce )
 
----
-
-### 🔎 Análisis de Funnel de Conversión
-- Modelado completo del funnel (page_view → purchase).
-- Simulación de mejora del +7% en conversión.
-- Estimación de impacto en revenue usando ARPU.
-- Identificación de etapa crítica del embudo.
-🔗 [Ver proyecto](PEGA_AQUI_LINK)
 
 ---
 

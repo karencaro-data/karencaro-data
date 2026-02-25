@@ -21,7 +21,7 @@ Formación intensiva en SQL, análisis de KPIs y toma de decisiones basada en da
 - Cálculo de retención M1, M2 y M3.
 - Identificación de patrones de churn.
 - Segmentación por geografía para detectar mayor abandono.
-🔗 [Ver proyecto](PEGA_AQUI_LINK)
+🔗 [Ver proyecto](https://github.com/karencaro-data/analisis-retencion-cohortes-ecommerce )
 
 ---
 

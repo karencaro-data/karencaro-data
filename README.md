@@ -31,7 +31,6 @@ Formación intensiva en SQL, análisis de KPIs y toma de decisiones basada en da
 🔗 [Ver proyecto](https://github.com/karencaro-data/analisis-retencion-cohortes-ecommerce )
 
 
----
 
 ### 🌎 Movilidad Urbana vs Productividad LATAM
 - Integración y limpieza de datasets.

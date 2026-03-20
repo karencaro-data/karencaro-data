@@ -15,7 +15,14 @@ Formación intensiva en SQL, análisis de KPIs y toma de decisiones basada en da
 ---
 
 ## 📊 Proyectos Destacados
+## 📊 Análisis de Clientes - ConnectaTel
 
+- Limpieza y análisis de datos de clientes de telecomunicaciones.
+- Segmentación por nivel de uso y grupo de edad.
+- Identificación de patrones de comportamiento y oportunidades de negocio.
+- Visualización de datos y generación de insights accionables.
+
+🔗 [Ver proyecto](https://github.com/karencaro-data/elecom-analysis-sprint7-final-project-)
 ### 📈 Análisis de Retención por Cohortes
 - Construcción de cohortes mensuales en SQL.
 - Cálculo de retención M1, M2 y M3.
